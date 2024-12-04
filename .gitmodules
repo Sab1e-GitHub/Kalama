@@ -1,0 +1,6 @@
+[submodule "Kalama_Android"]
+	path = Kalama_Android
+	url = https://github.com/Sab1e-GitHub/Kalama_Android
+[submodule "Kalama_Firmware"]
+	path = Kalama_Firmware
+	url = https://github.com/Sab1e-GitHub/Kalama_Firmware
