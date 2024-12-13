@@ -35,7 +35,9 @@ AMG8833的温度值测量误差很大，只能看热区。
 
 ## 摄像机辅助原理
 
-<img src="https://github.com/user-attachments/assets/48a271d9-b2d0-4410-b8e7-0332a9966792" width="50%" />
+<img src="https://github.com/user-attachments/assets/bb45f40f-e5b2-4acd-ae63-99ed4d922d25" width="60%" />
+
+
 
 ## 电路
 
